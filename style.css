@@ -1,0 +1,17 @@
+body {
+  background-color: #f9fafc;
+}
+
+.container {
+  padding-top: 7.5rem;
+}
+
+.converted-value {
+  color: #4e0664;
+  font-weight: 700;
+}
+
+.conversion-precision {
+  color: #4e0664;
+  font-weight: 500;
+}
